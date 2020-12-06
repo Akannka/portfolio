@@ -1,0 +1,39 @@
+:root {
+	--txt-size-plain: 16px;
+
+	
+	
+	--txt-font-plain: 'PT Sans Caption', sans-serif;
+	--txt-font-header: 'Raleway', sans-serif;
+	
+	--color-txt: #ffffff;
+	--color-accent: #ffe400;
+	--color-footer: #647aa2;
+
+
+
+	--grid-size: 12;
+	--container-width: 1140px;
+	--column-width: 70px;
+	--space-width: 15px;
+	--dspace-width: 30px;
+	
+  
+	--column-x1: calc(var(--container-width) / var(--grid-size) * 1 - 2 * var(--space-width));
+	--column-x2: calc(var(--container-width) / var(--grid-size) * 2 - 2 * var(--space-width));
+	--column-x3: calc(var(--container-width) / var(--grid-size) * 3 - 2 * var(--space-width));
+	--column-x4: calc(var(--container-width) / var(--grid-size) * 4 - 2 * var(--space-width));
+	--column-x5: calc(var(--container-width) / var(--grid-size) * 5 - 2 * var(--space-width));
+	--column-x6: calc(var(--container-width) / var(--grid-size) * 6 - 2 * var(--space-width));
+	--column-x7: calc(var(--container-width) / var(--grid-size) * 7 - 2 * var(--space-width));
+	--column-x8: calc(var(--container-width) / var(--grid-size) * 8 - 2 * var(--space-width));
+	--column-x9: calc(var(--container-width) / var(--grid-size) * 9 - 2 * var(--space-width));
+	--column-x10: calc(var(--container-width) / var(--grid-size) * 10 - 2 * var(--space-width));
+	--column-x11: calc(var(--container-width) / var(--grid-size) * 11 - 2 * var(--space-width));
+	--column-x12: calc(var(--container-width) / var(--grid-size) * 12 - 2 * var(--space-width));
+	
+	
+	
+	
+	
+	}

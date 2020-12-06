@@ -1,0 +1,33 @@
+@media (max-width: 1160px) {
+  *{
+    box-sizing: border-box;
+  }
+  .main--navigation ul{
+    width: 100%;
+  }
+  .main--navigation li{
+    margin-bottom: 20px;
+    flex-basis:100%;
+  }
+
+  .container {
+    width: 100%;
+    padding-left: 30px;
+    padding-right:  30px;
+   
+  
+  }
+
+
+  .col-4 {
+    flex-basis: 100%;   
+    margin:0;
+    margin-top: 60px;
+    
+   
+
+  }
+  .description{
+    width: 360px;
+  }
+}
