@@ -62,7 +62,7 @@ ul.cv_list li{
 	color: #000000;
 }
 .cv_list li a:hover{
-	text-decoration: underline;
+	text-decoration: none;
 	color: red;
 }
 
