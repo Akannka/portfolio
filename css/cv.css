@@ -61,6 +61,10 @@ ul.cv_list li{
 	text-decoration: none;
 	color: #000000;
 }
+.cv_list li a:hover{
+	text-decoration: underline;
+	color: red;
+}
 
 .columns{
 	display: flex;	
